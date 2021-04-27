@@ -1,0 +1,12 @@
+---comandos basicos do git e bash
+
+como navegar entre pastas do gitbash
+**entrar na pasta
+
+cd /c/herald.maues.maues/dev
+
+** voltar um nível
+cd
+
+ver conteúdo da pasta
+* ls
