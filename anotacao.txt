@@ -22,7 +22,7 @@ voce vai ver o status utilizando o comando git status
 vai aparecer que há um commit modificado
 vai utilizar o comando git add 'o nome da pasta'
 e usar o comando git status pra ver ser o commit ja está incluso na núvem
-usar o comando git -m "
+usar o comando git commit  -m "
 e depois git push
 
 
