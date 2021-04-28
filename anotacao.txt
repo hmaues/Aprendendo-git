@@ -25,5 +25,4 @@ git commit -m "mensagem explicando a mudança no código"
 Git Push
 git push <remote> <nome-do-branch>
 
--
-sdsdfs
+
