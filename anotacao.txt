@@ -12,17 +12,18 @@ ver conteúdo da pasta
 * ls
 ---------------------------------------------------
 passo a passo para enviar um comit para o repositorio com comandos
-entrar na git bash
-utilizar o comando cd e barra.								
-colocar o nome da pasta
-cd /c/herald.maues/dev
-colocar o comando ls para listar a pasta desejada
-irá a parecer a pasta: apredendo-git/
-voce vai ver o status utilizando o comando git status
-vai aparecer que há um commit modificado
-vai utilizar o comando git add 'o nome da pasta'
-e usar o comando git status pra ver ser o commit ja está incluso na núvem
-usar o comando git commit  -m "
-e depois git push
+Git Clone
+git clone <https://nome-do-link>
+comando  de listagem
+ls
+git status;
+git status
+git add
+git add <arquivo>
+Git Commit
+git commit -m "mensagem explicando a mudança no código"
+Git Push
+git push <remote> <nome-do-branch>
+
 -
 sdsdfs
