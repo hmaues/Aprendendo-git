@@ -24,5 +24,5 @@ vai utilizar o comando git add 'o nome da pasta'
 e usar o comando git status pra ver ser o commit ja está incluso na núvem
 usar o comando git commit  -m "
 e depois git push
-
-
+-
+sdsdfs
