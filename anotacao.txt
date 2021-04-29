@@ -24,7 +24,8 @@ Git Commit
 git commit -m "mensagem explicando a mudança no código"
 Git Push
 git push <remote> <nome-do-branch>
------------------------------------------------------------------------------------------
-git checout -b <branch_name> - criar uma nova branch    
-git checkout <branch_name>  - vai para uma branch especifica 
-    
+-----------------------------------------
+git checkout -b <branch_name>
+git checkout b  <branch_name
+
+
