@@ -27,5 +27,11 @@ git push <remote> <nome-do-branch>
 -----------------------------------------
 git checkout -b <branch_name>
 git checkout b  <branch_name
+---------------------------
+passo a passo para fazer o MERGE
+git checkout main
+git pull orign
+git merge <branch_name>
+git push origin.
 
 
